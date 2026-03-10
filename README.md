@@ -16,6 +16,8 @@ user question  →  embed query  →  vector search  →  top-k chunks  →  GPT
 2. **Query** — ask a question in the same chat. It's embedded, searched against the FAISS index, and the top matching chunks are sent to OpenAI GPT-5.4 to synthesize a grounded answer.
 3. **Web UI** — a Flask app serves a chat interface at `http://localhost:5000`. The input field detects YouTube URLs automatically and switches between "Add" and "Send" mode.
 
+![Prompt](https://github.com/user-attachments/assets/956d1afc-d9a1-43e5-a0ab-5b7f6c39d9c9)
+
 Retrieval is entirely local. OpenAI is only used for the final answer generation step.
 
 New to RAG? Read [TUTORIAL.md](TUTORIAL.md) for a ground-up explanation of how each component works.
