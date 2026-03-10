@@ -27,7 +27,7 @@ New to RAG? Read [TUTORIAL.md](TUTORIAL.md) for a ground-up explanation of how e
 ## Project Structure
 
 ```
-pyrag/
+pure-python-RAG/
 ├── transcripts/          # Transcript .txt files (downloaded or manually added)
 │   └── <video_id>.txt
 ├── data/                 # Auto-created by ingest (index + chunks)
