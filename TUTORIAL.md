@@ -1,6 +1,6 @@
 # RAG 101: Understanding Retrieval-Augmented Generation
 
-This tutorial uses the `pyrag` application as a hands-on reference. By the end, you should be able to explain what RAG is, why it exists, how each component works, and where the interesting tradeoffs live.
+This tutorial uses the `pure-python-RAG` application as a hands-on reference. By the end, you should be able to explain what RAG is, why it exists, how each component works, and where the interesting tradeoffs live.
 
 ---
 
