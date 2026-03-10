@@ -271,3 +271,9 @@ Add a YouTube video first by pasting a URL into the chat, or run `python app.py 
 | `python-dotenv` | `.env` file loading |
 | `numpy` | Array handling for FAISS |
 | `tqdm` | Progress bars during ingest |
+
+---
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
