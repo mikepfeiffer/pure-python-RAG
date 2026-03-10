@@ -33,6 +33,7 @@ def parse_metadata(lines: list[str]) -> tuple[dict, str]:
 
 def ingest_transcripts():
     DATA_DIR.mkdir(exist_ok=True)
+    TRANSCRIPTS_DIR.mkdir(exist_ok=True)
 
     txt_files = list(TRANSCRIPTS_DIR.glob("*.txt"))
     if not txt_files:
