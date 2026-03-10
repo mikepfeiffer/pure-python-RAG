@@ -110,6 +110,8 @@ Supported URL formats:
 - `https://www.youtube.com/watch?v=VIDEO_ID`
 - `https://youtu.be/VIDEO_ID`
 
+![Add Transcript](https://github.com/user-attachments/assets/e65ac312-09ca-4cb5-896e-12d615e88e23)
+
 ### Asking questions
 
 Type any question and press **Enter** (or click **Send**). Answers include clickable source chips showing which video each claim came from, linked back to the original YouTube video.
@@ -119,6 +121,8 @@ Use **Shift+Enter** for a newline in your question.
 ### Viewing indexed transcripts
 
 Type `/transcripts` in the chat to see a list of all videos currently in the index. Each entry shows the video title, chunk count, and a link to the original YouTube video.
+
+![Transcripts](https://github.com/user-attachments/assets/2b467570-f66c-4ba7-af1f-f0a260bf408c)
 
 ### CLI commands
 
