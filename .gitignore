@@ -1,0 +1,28 @@
+/code-examples
+pure_python_rag_transcripts_lab.md
+
+# Environment
+.env
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data / index (generated at runtime)
+data/
+
+# Transcript downloads (user-specific)
+transcripts/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
