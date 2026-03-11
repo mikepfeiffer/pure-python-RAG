@@ -60,8 +60,8 @@ pure-python-RAG/
 **1. Clone the repo and create a virtual environment**
 
 ```bash
-git clone <repo-url>
-cd pyrag
+git clone [<repo-url>](https://github.com/mikepfeiffer/pure-python-RAG.git)
+cd pure-python-RAG
 python3 -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 ```
