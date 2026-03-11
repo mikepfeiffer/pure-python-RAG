@@ -214,6 +214,8 @@ Retrieved chunks are assembled into a prompt and sent to `gpt-5.4`. The prompt i
 - Cite the video title for each major claim
 - Acknowledge when the answer isn't supported by the transcripts
 
+![Image](https://github.com/user-attachments/assets/956d1afc-d9a1-43e5-a0ab-5b7f6c39d9c9)
+
 To change the model, edit `src/llm.py`.
 
 ---
